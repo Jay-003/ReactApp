@@ -9,7 +9,7 @@
 
 * *Date Created*: 23 03 2024
 * *Last Modification Date*: 25 03 2024
-* *Lab URL*: https://timemanagerdash.netlify.app
+* *Lab URL*: https://lab7-form.netlify.app
 * *Git URL*: <https://git.cs.dal.ca/jmodi/csci3172/-/tree/main/labs/lab7?ref_type=heads>
 
 

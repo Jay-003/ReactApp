@@ -24,7 +24,7 @@ const LoginForm = ( { onSubmit } ) => {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     const passwordRegex = /^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$/;
 
-    // Validate each field
+    // Validating each field
     if ( !nameRegex.test( formData.firstName ) ) {
       newErrors.firstName = 'First Name must contain only alphabets';
       valid = false;
